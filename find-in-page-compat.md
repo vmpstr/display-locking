@@ -48,7 +48,7 @@ Searching for "onetwo" without quotes.
 
 #### Chrome results
 
-<img style="box-shadow: 2px 2px 5px 3px grey;width: 400px;" src="resources/find-in-page/display_types_chrome.png"></img>
+![](resources/find-in-page/display_types_chrome.png) <!-- .element style="box-shadow: 2px 2px 5px 3px grey; width: 400px;" -->
 
 Chrome finds text in separate inlines, and when the second word is an inline
 sibling of the first. It does not find the text in any other cases.
