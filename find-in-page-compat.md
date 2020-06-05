@@ -1,9 +1,3 @@
-<style type="text/css">
-img {
-  background: blue;
-}
-</style>
-
 # Find-in-page compatibility across browsers
 
 This page documents similarities and differences across browsers when using the browser find-in-page UI in different situations.
@@ -54,9 +48,7 @@ Searching for "onetwo" without quotes.
 
 #### Chrome results
 
-<div style="box-shadow: 2px 2px 5px 3px grey; width: 400px">
-  <img src="resources/find-in-page/display_types_chrome.png"></img>
-</div>
+<kbd><img src="resources/find-in-page/display_types_chrome.png" width=400px></img></kbd>
 
 Chrome finds text in separate inlines, and when the second word is an inline
 sibling of the first. It does not find the text in any other cases.
