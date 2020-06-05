@@ -49,7 +49,7 @@ Searching for "onetwo" without quotes.
 #### Chrome results
 
 <div style="box-shadow: 2px 2px 5px 3px grey; width: 400px">
-  ![](resources/find-in-page/display_types_chrome.png)
+  <img src="resources/find-in-page/display_types_chrome.png"></img>
 </div>
 
 Chrome finds text in separate inlines, and when the second word is an inline
