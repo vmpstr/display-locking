@@ -1,3 +1,9 @@
+<style type="text/css">
+img {
+  background: blue;
+}
+</style>
+
 # Find-in-page compatibility across browsers
 
 This page documents similarities and differences across browsers when using the browser find-in-page UI in different situations.
